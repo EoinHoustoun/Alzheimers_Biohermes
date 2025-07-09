@@ -27,5 +27,5 @@ Alzheimer’s Dementia (AD) is a progressive neurodegenerative disorder with cli
 
 ## Preview
 
-<img src="docs/assets/preview.png" width="500"/>
+<img src="docs/assets/Research_Image.png" width="500"/>
 
