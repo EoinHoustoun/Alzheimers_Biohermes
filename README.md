@@ -2,6 +2,8 @@
 ## Abstract
 Alzheimer’s Dementia (AD) is a progressive neurodegenerative disorder with clinical stages ranging from cognitively normal (CN) to mild cognitive impairment (MCI) and mild Alzheimer’s Dementia (AD). Accurate classification of these stages is critical for early intervention and treatment planning, and AD risk prediction is also important for patient stratification. This work explores the predictive capabilities of machine learning models using a combination of digital biomarkers from the Bio-Hermes study. Five models—Logistic Regression, Elastic Net, Random Forest, Gradient Boosting, and XGBoost—were evaluated on a 20% test set after being trained or hyperparameter-tuned using repeated cross-validation, on an 80% training set. XGBoost achieved the best overall performance with an AUC of 0.815 followed closely by Gradient Boosting (AUC = 0.806). The findings highlight the potential of ensemble methods like XGBoost for the prediction of Alzheimer’s clinical stages and risk of AD, with digital biomarkers proving to be valuable while non-invasive and inexpensive to produce predictors. This is an important aspect in the economy of a very expensive and challenging to diagnose, treat, and evaluate risk for, medical condition such as Dementia.	 
 
+<img src="docs/assets/Research_Image.png" width="400"/>
+
 ## Summary
 
 - Built models to classify cognitive stages: Cognitively Normal, Mild Cognitive Impairment, Mild AD  
@@ -24,8 +26,4 @@ Alzheimer’s Dementia (AD) is a progressive neurodegenerative disorder with cli
 ## Files
 
 - Code available upon request
-
-## Preview
-
-<img src="docs/assets/Research_Image.png" width="500"/>
 
